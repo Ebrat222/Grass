@@ -9,6 +9,7 @@ pip install -r requirements.txt
 nano user.txt #add your email and token address if you want multiple Accounts add line by line
 python main.py
 
+Run Bot Without Proxy's = python main.py
 
 | Feature                        | Supported |
 |--------------------------------|:---------:|
