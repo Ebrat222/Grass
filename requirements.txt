@@ -6,3 +6,4 @@ requests
 uuid
 websockets
 python-socks[asyncio]
+aiohttp
