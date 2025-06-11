@@ -17,4 +17,4 @@ Run Bot Without Proxy's = python main.py
 | Free Proxy            |     ✔     |
 | Auto Rotating Proxy              |     ✔     |
 
-Don’t forget to star the project and report any bugs you find. Good luck!
+Don’t forget to star the project and report any bugs you find. Good luck!!
